@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="AndroidContent">
+        Part 1 (Java SE)\n
+        1. Introduction to Java\n
+        Programming\n
+        • Overview.\n
+        . Compiler and JVM\n
+        . project Structure\n
+        . Hello World Application\n
+        . Variables and Data types\n
+        . Operator\n
+        . Condition statements(IF-Switch)\n
+        . Loops (For-While-Do While)\n
+        2.Basics\n
+        . nested loops\n
+        . String\n
+        . Arrays
+    </string>
+    <string name="IOS">
+        OOP refreshment\n
+        .Introduction\n
+        a. Installing OS X virtual machine\n
+        b. Installing Xcode and the iOS\n
+        SDK\n
+        c. A guided tour of Xcode\n
+        d. An Introduction to Xcode\n
+        playgrounds\n
+        Swift Programming Language\n
+        a. Swift Data Types, Constants,\n
+        and Variables\n
+        Press any kay to unlock\n
+        b. Swift Operators and\n
+        Expressions\n
+        c. Swift Flow Control\n
+        d. The Swift Switch Statement\n
+        e. An Overview of Swift\n
+    </string>
+    <string name="FullStack">
+        .HTML\N
+        .HTML5\N
+        •CSS\N
+        •CSS3\N
+        •SASS\N
+        .Bootstrap 4\N
+        •JQuery\N
+        •angular 7\N
+        •AJAX\N
+        •JSON\N
+        .php\N
+        MySQL.\N
+        WORDPRESS\N
+        jQuery\N
+        •Regular expressions\N
+        •ECMAScript 6\N
+        .AJAX\N
+        Laravel\N
+        •Hosting and domains\N
+        •Freelancing tips and tricks\N
+    </string>
+</resources>
